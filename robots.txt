@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stonsequ.github.io/sitemap.html.gz
+Sitemap: https://stonsequ.github.io/app/sitemap.html.gz
+Sitemap: https://stonsequ.github.io/assets/sitemap.html.gz
+Sitemap: https://stonsequ.github.io/css/sitemap.html.gz
+Sitemap: https://stonsequ.github.io/includes/sitemap.html.gz
+Sitemap: https://stonsequ.github.io/item/sitemap.html.gz
+Sitemap: https://stonsequ.github.io/src/sitemap.html.gz
